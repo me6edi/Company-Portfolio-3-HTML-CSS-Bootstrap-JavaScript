@@ -1,0 +1,53 @@
+@media screen and (max-width: 640px){
+	.item h2 {
+    font-size: 60px;
+}
+
+	.item h3 {
+    font-size: 20px;
+}
+.item h4{
+	font-size: 18px;
+}
+.navbar-default .navbar-nav > li > a {
+    font-size: 13px;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a {
+    color: 
+    #fff;
+}
+.navbar-default .navbar-nav .open .dropdown-menu > li > a:hover {
+    color: 
+#87d37c;
+background-color:
+    transparent;
+}
+.about-icon{
+	max-width: 285px;
+	margin: 30px auto;
+}
+.service-icon{
+	max-width: 285px;
+	margin: 30px auto;
+}
+.isotope-overlay h2 {
+    margin-top: 85px;
+}
+.h2, h2 {
+    font-size: 15px;
+}
+.pricing{
+	max-width: 285px;
+	margin: 30px auto;
+}
+.counter-content {
+	max-width: 285px;
+	margin: 30px auto;
+}
+.counter-content {
+    margin-bottom: -100px;
+}
+.text-right {
+    text-align: center;
+}
+} 
